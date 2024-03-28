@@ -1,1 +1,9 @@
 @import url("../src/components/Profile/Profile.module.css");
+@import url("../src/components/FriendList/FriendList.module.css");
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
