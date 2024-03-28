@@ -21,6 +21,7 @@
 .friend-list {
   text-align: center;
   gap: 12px;
+  margin-bottom: 60px;
 }
 
 .friend-item {

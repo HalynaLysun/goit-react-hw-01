@@ -16,15 +16,15 @@ export default function Profile({
       <ul className="user-list">
         <li className="user-item">
           <span className="user-followers">Followers</span>
-          <span className="user-followers-data">{followers}</span>
+          <span className="user-followers data">{followers}</span>
         </li>
         <li className="user-item">
           <span className="user-views">Views</span>
-          <span className="user-views-data">{views}</span>
+          <span className="user-views data">{views}</span>
         </li>
         <li className="user-item">
           <span className="user-likes">Likes</span>
-          <span className="user-likes-data">{likes}</span>
+          <span className="user-likes data">{likes}</span>
         </li>
       </ul>
     </div>
